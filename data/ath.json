@@ -1,8 +1,10 @@
 {
- "generated": "2026-11-26T12:44:09.950Z",
+ "generated": "2026-11-26T23:31:01.052Z",
  "method": "Riferimento: massimo di chiusura degli ultimi 3 anni (dalla stessa data di 3 anni prima dell'ultima seduta), dalla serie di Yahoo, solo prezzo, nella valuta di quotazione; distanza = ultima chiusura / massimo − 1; giorni di calendario dal massimo all'ultima seduta; calo massimo = minimo di chiusura dopo il massimo (non calcolato se una chiusura è ≤ 0); ath = massimo di chiusura dall'inizio della serie.",
  "asOf": "2026-11-26",
- "missing": [],
+ "missing": [
+  "KOSPI"
+ ],
  "markets": [
   {
    "id": "BTC",
@@ -40,22 +42,22 @@
    "stats": {
     "start": "2000-08-30",
     "from": "2023-11-26",
-    "last": 3596.2,
+    "last": 3591.8,
     "lastDate": "2026-11-26",
     "ref": 5318.3999,
     "refDate": "2026-01-29",
-    "distPct": -32.38,
+    "distPct": -32.46,
     "days": 301,
     "cycleLow": 3515.3999,
     "cycleLowDate": "2026-11-20",
     "cycleLowPct": -33.9,
-    "fromLowPct": 2.3,
+    "fromLowPct": 2.17,
     "belowZero": null,
     "intradayRef": 5586.2002,
     "intradayRefDate": "2026-01-29",
     "ath": 5318.3999,
     "athDate": "2026-01-29",
-    "athDistPct": -32.38
+    "athDistPct": -32.46
    }
   },
   {
@@ -67,22 +69,22 @@
    "stats": {
     "start": "2000-08-30",
     "from": "2023-11-26",
-    "last": 41.805,
+    "last": 41.66,
     "lastDate": "2026-11-26",
     "ref": 115.08,
     "refDate": "2026-01-26",
-    "distPct": -63.67,
+    "distPct": -63.8,
     "days": 304,
     "cycleLow": 40.052,
     "cycleLowDate": "2026-11-25",
     "cycleLowPct": -65.2,
-    "fromLowPct": 4.38,
+    "fromLowPct": 4.01,
     "belowZero": null,
     "intradayRef": 121.3,
     "intradayRefDate": "2026-01-29",
     "ath": 115.08,
     "athDate": "2026-01-26",
-    "athDistPct": -63.67
+    "athDistPct": -63.8
    }
   },
   {
@@ -94,22 +96,22 @@
    "stats": {
     "start": "2000-08-30",
     "from": "2023-11-26",
-    "last": 5.4655,
+    "last": 5.452,
     "lastDate": "2026-11-26",
     "ref": 6.8035,
     "refDate": "2026-09-09",
-    "distPct": -19.67,
+    "distPct": -19.86,
     "days": 78,
     "cycleLow": 5.3325,
     "cycleLowDate": "2026-11-25",
     "cycleLowPct": -21.62,
-    "fromLowPct": 2.49,
+    "fromLowPct": 2.24,
     "belowZero": null,
     "intradayRef": 6.83,
     "intradayRefDate": "2026-09-22",
     "ath": 6.8035,
     "athDate": "2026-09-09",
-    "athDistPct": -19.67
+    "athDistPct": -19.86
    }
   },
   {
@@ -121,22 +123,22 @@
    "stats": {
     "start": "2000-08-23",
     "from": "2023-11-26",
-    "last": 84.58,
+    "last": 84.82,
     "lastDate": "2026-11-26",
     "ref": 112.95,
     "refDate": "2026-04-07",
-    "distPct": -25.12,
+    "distPct": -24.9,
     "days": 233,
     "cycleLow": 68.55,
     "cycleLowDate": "2026-07-06",
     "cycleLowPct": -39.31,
-    "fromLowPct": 23.38,
+    "fromLowPct": 23.73,
     "belowZero": null,
     "intradayRef": 119.48,
     "intradayRefDate": "2026-03-09",
     "ath": 145.29,
     "athDate": "2008-07-03",
-    "athDistPct": -41.79
+    "athDistPct": -41.62
    }
   },
   {
